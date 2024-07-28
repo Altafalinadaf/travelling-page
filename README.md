@@ -30,7 +30,7 @@ To run the website locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Altafalinadaf/your-repository-name.git
+    git clone https://github.com/Altafalinadaf/travelling-page.git
     ```
 2. Navigate to the project directory:
     ```bash
